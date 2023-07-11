@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c i -s -d "Acrostic"
+cut -c i | paste  -s -d "Acrostic"
